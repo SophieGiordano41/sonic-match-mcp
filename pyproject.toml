@@ -1,0 +1,5 @@
+[project]
+name = "sonic-match-mcp"
+version = "0.1.0"
+description = "MCP server that watches video footage and returns license-safe BGM matches, hook windows, and ffmpeg ducking specs for agents."
+requires-python = ">=3.10"
